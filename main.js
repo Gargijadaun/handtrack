@@ -60,7 +60,7 @@ const wristModelCommonSettings = {
   URL: 'assets/debug/Watch2.glb',
  
   scale: 1.35 * 1.462,
-  offset: [0.076, 3, -0.504],
+  offset: [0.076, 2, -0.504],
   quaternion: [0, 0, 0, 1],  // Format: X,Y,Z,W (and not W,X,Y,Z like Blender)
 };
 
